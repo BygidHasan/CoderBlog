@@ -114,4 +114,4 @@ The personal blog app project will be maintained by me only (unless the app is u
 
 
 ## 8. Conclusion
-### The personal blog app project is a valuable tool for programmers. It will allow them to share their knowledge with others, get feedback on their work, and connect with other programmers. The project is also a great way to learn new coding skills.
+The personal blog app project is a valuable tool for programmers. It will allow them to share their knowledge with others, get feedback on their work, and connect with other programmers. The project is also a great way to learn new coding skills.

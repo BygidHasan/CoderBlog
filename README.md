@@ -8,7 +8,7 @@ A knowledge sharing blog app for programmers
 
 This document specifies the requirements for a personal blog app project for programmers. The app will allow programmers to create, read, update, delete, comment, and like posts. It will also have a login and signup facility, and login with Gmail will be available. Users will be able to update their profile, which will contain their image, name, email, joining date, total created posts, and total reacted and commented posts. The app will also have an AI chatbot that will only help with basic coding queries, not a debugger. The project will be made with ReactJS, NodeJS, ExpressJS, and MongoDB.
 
----
+
 
 ## 2. Requirements
 ### The following are the requirements for the personal blog app project:
@@ -26,7 +26,7 @@ This document specifies the requirements for a personal blog app project for pro
 - The app must be user-friendly.
 - The app must be accessible to users with disabilities.
 
----
+
 
 ## 3. Use cases
 ### The following are the use cases for the personal blog app project:
@@ -74,7 +74,7 @@ This document specifies the requirements for a personal blog app project for pro
 - The user enters a coding query.
 - The AI chatbot responds to the query.
 
----
+
 
 ## 4. Implementation
 ### The personal blog app project will be implemented using the following technologies:
@@ -85,7 +85,7 @@ This document specifies the requirements for a personal blog app project for pro
 - API: ExpressJS
 - Database: MongoDB
 
----
+
 
 ## 5. Testing
 ### The personal blog app project will be tested using the following methods:
@@ -97,7 +97,7 @@ This document specifies the requirements for a personal blog app project for pro
 - *Performance Testing
 - *Security Testing
 
----
+
 
 ## 6. Deployment
 ### The personal blog app project will be deployed on the following platforms:
@@ -106,12 +106,12 @@ This document specifies the requirements for a personal blog app project for pro
 - *AWS
 - *Azure
 
----
+
 
 ## 7. Maintenance
 The personal blog app project will be maintained by me only (unless the app is used for official production).
 
----
+
 
 ## 8. Conclusion
 ### The personal blog app project is a valuable tool for programmers. It will allow them to share their knowledge with others, get feedback on their work, and connect with other programmers. The project is also a great way to learn new coding skills.
